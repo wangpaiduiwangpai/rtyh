@@ -1,0 +1,7 @@
+{
+    "editor.mouseWheelZoom":true, //通过滚轮滑动放大缩小
+    "files.autoSave": "onFocusChange", //失去焦点文件自动保存
+    "python.analysis.completeFunctionParens": true, //括号自动闭合
+    
+    
+}
