@@ -4,7 +4,12 @@
     "python.analysis.completeFunctionParens": true,
     "rss.accounts": {
         
-    }, //括号自动闭合
+    },
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true, //括号自动闭合
     
     
 }
